@@ -1,3 +1,3 @@
 # ud777
 
-For the 'Writing Readmes' course
+For the "Writing Readme's" course
